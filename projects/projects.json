@@ -1609,6 +1609,21 @@
         "online radio",
         "internet radio"
       ]
-    }
+    },
+    {
+      "name": "Horizon", 
+      "thumb": "horizon/thumb.png", 
+      "desc": "Horizon is a resource planner that allows you to keep a high-level overview", // One or two sentences
+      "url": "http://horizon.xaop.com", 
+      "info": "http://horizon.xaop.com/tour", 
+      // "src": "https://github.com/me/myapp",
+      "submitter": "xaop", // your github username
+      "submissionDate": "2013-11-13", // current date in ISO format
+      "tags": [
+        "Planner", "Production", "Business", "Art", "Drawing", // choose your app seriousness level (for plunks or fiddles use "Toy")
+        "Productivity", "Animations", "Color",
+        "jQuery", "Rails", "Ruby On Rails" // do you use jQuery?
+      ]
+    }    
   ]
 }
